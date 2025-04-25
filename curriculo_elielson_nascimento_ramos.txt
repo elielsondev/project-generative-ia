@@ -1,0 +1,53 @@
+Elielson do Nascimento Ramos
+(81) 9 9415-3137 | (81) 9 9276-6543 |
+linkedin.com/in/elielsondev/ | github.com/elielsondev | elielsondev.vercel.app/ 
+nascimento.elielson@gmail.com | Goiana, PE | CNH AB
+
+Resumo:
+Profissional altamente motivado e com sólida formação em Engenharia de Software, Gestão de Produção Industrial e Análise e Desenvolvimento de Sistemas, buscando posição desafiadora que permita a aplicação de minhas habilidades em ambiente colaborativo e focado em resultados.  Experiência comprovada em operações logísticas, produção industrial e atendimento ao cliente, combinada com forte background em desenvolvimento web full-stack e inteligência artificial.  Aberto a novas oportunidades de aprendizagem e crescimento profissional contínuo.
+
+Formação Acadêmica:
+Pós-Graduação em Engenharia de Software com Métodos Ágeis 
+| Instituto Líbano | Concluído em 2024
+
+Graduação em Gestão de Produção Industrial 
+| Centro Universitário Internacional (Uninter) | Concluído em 2022
+
+Graduação em Análise e Desenvolvimento de Sistemas 
+| Faculdade Descomplica | Previsão de Conclusão: Dezembro de 2026
+
+Técnico - Inspetor de Qualidade 
+| Instituto Tecnológico Brasileiro ITB / Pronatec | Concluído em 2017
+
+Curso de Assistente Administrativo 
+| Prime Cursos do Brasil | Concluído em 2012
+
+Cursos Complementares:
+IA Generativa com AWS | Trybe/AWS | Concluído em 2024
+Desenvolvimento Web Full-Stack | Trybe | Concluído em 2022
+IA para Programação com Python | Trybe | Previsão de Conclusão: Setembro de 2025
+Inglês | What If Club | Previsão de Conclusão: Agosto de 2026
+
+Habilidades:
+Domínio de Pacote Office: Excel, Word, PowerPoint, Publisher, Outlook (Nível Intermediário)
+Domínio de Pacote LibreOffice: Write, Calc, Impress (Nível Intermediário)
+Linguagens de Programação: JavaScript, TypeScript (Intermediário), Python e Java (Básico)
+Tecnologias: HTML5, CSS3 (Intermediário)
+Frameworks: React, Node.js, Tailwind, BootStrap (Intermediário), Express.js (Básico)
+Banco de Dados & ORMs: MySQL (Básico), MongoDB (Básico), Sequelize (Básico)
+Versionamento & Deploy: Git, GitHub, Vercel (Intermediária), Docker (Básico)
+Metodologias Ágeis: Scrum, Kanban
+Inteligência Artificial: IA para Programação com Python (Intermediário), IA Generativa com AWS (Básico)
+Atendimento ao Cliente, Logística e Operações
+
+Experiência Profissional:
+Tora Transportes | Assistente Operacional II | 1 ano e 4 meses
+    - Atendimento a clientes e motoristas.
+    - Cadastro de Notas Fiscais e emissão de CT-e, MDF-e, RPA e AE.
+    - Rastreamento de cargas e análise de prazos de entrega (ETA).
+
+PMC Automotiva do Brasil LTDA. | Operador de Produção | 3 anos
+    - Montagem e inspeção de componentes automobilísticos, focado na eficiência e qualidade dos produtos.
+
+Companhia Brasileira de Vidros Planos – CBVP (VIVIX) | Operador de Armazenagem | 1 ano e 7 meses
+    - Montagem de cargas para expedição e liberação no sistema.
